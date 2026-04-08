@@ -1,7 +1,0 @@
-print("Class 1")
-print("****************************")
-print("Print Command: Printing Hello world")
-print("****************************")
-print("Hello World")
-print("****************************")
-print("This is your friendly neighborhood coder - Sami.")
